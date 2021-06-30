@@ -1,0 +1,14 @@
+com/ms/workitem/service/impl/BugService.class
+com/ms/workitem/service/impl/TaskService.class
+com/ms/workitem/entity/Bug.class
+com/ms/workitem/application/WorkItemApplication.class
+com/ms/workitem/entity/Feature.class
+com/ms/workitem/service/ITaskService.class
+com/ms/workitem/service/IFeatureService.class
+com/ms/workitem/entity/Task.class
+com/ms/workitem/service/impl/FeatureService.class
+com/ms/workitem/service/impl/WorkforceService.class
+com/ms/workitem/entity/BaseItem.class
+com/ms/workitem/service/IWorkforceService.class
+com/ms/workitem/enums/WorkItem.class
+com/ms/workitem/service/IBugService.class
